@@ -1,0 +1,7 @@
+balvan=banan,dubina,soska,lashara
+banan=sok
+dubina=soska
+sok=banan
+soska=balvan
+lashara=udot
+udot=lashara
